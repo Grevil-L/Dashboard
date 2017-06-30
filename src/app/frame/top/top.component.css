@@ -1,0 +1,26 @@
+.sub-container{
+  width: 75%;
+  float: none;
+  margin: 0 auto;
+}
+
+.profile-img{
+  max-width: 190px;
+}
+
+.table-container{
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.block1{
+  width: 20%;
+}
+
+.block2{
+  width:60%;
+}
+
+.block3{
+  width: 20%;
+}
